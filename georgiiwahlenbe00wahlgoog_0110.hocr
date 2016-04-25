@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./georgiiwahlenbe00wahlgoog_0110.png"; bbox 0 0 2799 4642; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 14 1722 62 2741">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 14 1722 62 2741">
+     <span class='ocr_line' id='line_1_1' title="bbox 32 1747 62 2737; baseline 165 -660"><span class='ocrx_word' id='word_1_1' title='bbox 43 1747 46 1750; x_wconf 64' lang='grc'>,</span> <span class='ocrx_word' id='word_1_2' title='bbox 32 1993 37 2034; x_wconf 72' lang='lat'>.·</span> <span class='ocrx_word' id='word_1_3' title='bbox 33 2093 37 2124; x_wconf 75' lang='grc' dir='ltr'>ιι</span> <span class='ocrx_word' id='word_1_4' title='bbox 32 2159 62 2227; x_wconf 41' lang='lat' dir='ltr'>*Fr</span> <span class='ocrx_word' id='word_1_5' title='bbox 33 2272 40 2333; x_wconf 74' lang='grc' dir='ltr'>ΙΙ</span> <span class='ocrx_word' id='word_1_6' title='bbox 34 2402 50 2423; x_wconf 64' lang='grc' dir='ltr'>,ρ</span> <span class='ocrx_word' id='word_1_7' title='bbox 34 2483 51 2737; x_wconf 53' lang='grc' dir='ltr'>Ινιῦ&lt;νιΐοὶι71</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 14 1722 39 2741; baseline 1019 -1019"><span class='ocrx_word' id='word_1_8' title='bbox 14 1722 35 1773; x_wconf 54' lang='grc' dir='ltr'>ΓΦ.</span> <span class='ocrx_word' id='word_1_9' title='bbox 15 1787 38 1828; x_wconf 58' lang='grc' dir='ltr'>,ΠΡ</span> <span class='ocrx_word' id='word_1_10' title='bbox 14 1843 39 2040; x_wconf 43' lang='lat' dir='ltr'>&amp;mentm-uh?</span> <span class='ocrx_word' id='word_1_11' title='bbox 14 2049 38 2331; x_wconf 54' lang='lat' dir='ltr'>uui-[fu.</span> <span class='ocrx_word' id='word_1_12' title='bbox 14 2340 30 2555; x_wconf 53' lang='grc' dir='ltr'>ἔπτῗὶιὲἱμ</span> <span class='ocrx_word' id='word_1_13' title='bbox 14 2572 31 2661; x_wconf 56' lang='grc' dir='ltr'><em>..ζιίὴ</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 15 2676 26 2697; x_wconf 62' lang='grc' dir='ltr'>ξ</span> <span class='ocrx_word' id='word_1_15' title='bbox 14 2708 31 2741; x_wconf 62' lang='grc' dir='ltr'>ιι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 14 683 37 1718">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 14 683 37 1718">
+     <span class='ocr_line' id='line_1_3' title="bbox 14 683 37 1718"><span class='ocrx_word' id='word_1_16' title='bbox 14 683 37 1718; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

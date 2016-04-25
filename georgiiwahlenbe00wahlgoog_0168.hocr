@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./georgiiwahlenbe00wahlgoog_0168.png"; bbox 0 0 2799 4642; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 588 3856 1211 4001">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 588 3856 1211 4001">
+     <span class='ocr_line' id='line_1_1' title="bbox 588 3856 1211 4001; baseline 0.027 -16"><span class='ocrx_word' id='word_1_1' title='bbox 588 3856 1211 4001; x_wconf 51' lang='lat' dir='ltr'><strong>Hathfflssaffffs&#39;z,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1300 174 1791 243">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1300 174 1791 243">
+     <span class='ocr_line' id='line_1_2' title="bbox 1300 174 1791 243; baseline 0.026 -12"><span class='ocrx_word' id='word_1_2' title='bbox 1300 174 1791 243; x_wconf 44' lang='grc' dir='ltr'><strong>ἀι’-ξοβ-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1700 3856 2533 3884">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1700 3856 2533 3884">
+     <span class='ocr_line' id='line_1_3' title="bbox 1700 3856 2533 3884; baseline 0.024 -26"><span class='ocrx_word' id='word_1_3' title='bbox 1700 3856 1733 3870; x_wconf 46' lang='lat'><strong>3-</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1755 3856 1908 3882; x_wconf 55' lang='lat' dir='ltr'><strong>&#39;&#39;VU-</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1932 3858 1959 3868; x_wconf 93' lang='grc'><strong>,.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1991 3856 2237 3884; x_wconf 33' lang='grc' dir='ltr'><strong>..ξεν-Π</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2255 3856 2277 3872; x_wconf 67' lang='lat' dir='ltr'><em>O</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2300 3856 2533 3879; x_wconf 62' lang='lat' dir='ltr'>w-&#39;&#39;GO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1217 3856 1868 4024">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1217 3856 1868 4024">
+     <span class='ocr_line' id='line_1_4' title="bbox 1229 3856 1868 3947; baseline 0.03 -25"><span class='ocrx_word' id='word_1_9' title='bbox 1229 3856 1463 3947; x_wconf 47' lang='lat' dir='ltr'><strong>hi&#39;stqrss&#39;.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1494 3888 1567 3936; x_wconf 77' lang='grc' dir='ltr'><strong>η.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1604 3856 1774 3940; x_wconf 74' lang='lat'><strong>868.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1811 3892 1816 3898; x_wconf 88' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1863 3907 1868 3939; x_wconf 85' lang='lat'><em>:</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1217 3943 1710 4024; baseline 0.026 -22"><span class='ocrx_word' id='word_1_14' title='bbox 1217 3943 1451 4024; x_wconf 87' lang='lat' dir='ltr'><strong>bique.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1585 3959 1590 3964; x_wconf 87' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1641 3964 1651 3975; x_wconf 66' lang='grc'><strong>“’</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1703 3963 1710 3970; x_wconf 91' lang='grc'><em>“</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

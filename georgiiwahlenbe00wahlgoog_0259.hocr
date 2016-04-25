@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./georgiiwahlenbe00wahlgoog_0259.png"; bbox 0 0 2799 4642; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 901 278 2157 372">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 901 278 2157 372">
+     <span class='ocr_line' id='line_1_1' title="bbox 901 278 2157 372; baseline 0.001 -58"><span class='ocrx_word' id='word_1_1' title='bbox 901 278 1393 317; x_wconf 51' lang='lat'><strong>...0002-</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2021 290 2157 372; x_wconf 42' lang='grc' dir='ltr'><strong>,ἴῃ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 224 428 2174 694">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 224 428 2174 694">
+     <span class='ocr_line' id='line_1_2' title="bbox 224 428 2174 530; baseline -0.001 -15"><span class='ocrx_word' id='word_1_3' title='bbox 224 428 228 445; x_wconf 47' lang='lat'><em>⁸</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 313 443 607 515; x_wconf 72' lang='lat' dir='ltr'><strong>&#39;Ch-sium</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 637 447 917 513; x_wconf 67' lang='lat' dir='ltr'><em>Haller.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 948 457 1166 513; x_wconf 76' lang='lat' dir='ltr'><strong><em>enum.</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1195 443 1427 524; x_wconf 76' lang='lat' dir='ltr'><strong>p..631.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1468 468 1532 508; x_wconf 79' lang='lat' dir='ltr'><strong>n.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1562 462 1621 522; x_wconf 85' lang='lat'><strong>7.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1662 446 1899 511; x_wconf 74' lang='lat' dir='ltr'><em>histor.</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1927 469 1992 510; x_wconf 84' lang='grc' dir='ltr'><strong>η.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2022 449 2174 530; x_wconf 67' lang='lat'><strong>169-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 230 526 2158 609; baseline -0.003 -12"><span class='ocrx_word' id='word_1_13' title='bbox 230 536 399 597; x_wconf 85' lang='lat' dir='ltr'><strong>Hah.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 439 531 606 594; x_wconf 87' lang='lat' dir='ltr'><strong>locis</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 641 529 1022 592; x_wconf 87' lang='lat' dir='ltr'><strong>stercoratis</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1058 535 1122 587; x_wconf 86' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1156 526 1497 589; x_wconf 78' lang='lat' dir='ltr'><strong>ruder-atis</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1531 526 1794 607; x_wconf 74' lang='lat' dir='ltr'>&#39;ubique</span> <span class='ocrx_word' id='word_1_19' title='bbox 1826 549 2040 609; x_wconf 85' lang='lat' dir='ltr'>usque</span> <span class='ocrx_word' id='word_1_20' title='bbox 2068 533 2158 592; x_wconf 87' lang='lat' dir='ltr'><strong>ad</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 308 612 894 694; baseline -0.003 -19"><span class='ocrx_word' id='word_1_21' title='bbox 308 613 566 675; x_wconf 80' lang='lat' dir='ltr'>bovilia</span> <span class='ocrx_word' id='word_1_22' title='bbox 608 612 894 694; x_wconf 80' lang='lat' dir='ltr'><strong>alpium·</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

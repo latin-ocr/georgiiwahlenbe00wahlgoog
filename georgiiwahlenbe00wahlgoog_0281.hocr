@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./georgiiwahlenbe00wahlgoog_0281.png"; bbox 0 0 2799 4642; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 928 269 2210 368">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 928 269 2210 368">
+     <span class='ocr_line' id='line_1_1' title="bbox 928 269 2210 368; baseline 0.002 -24"><span class='ocrx_word' id='word_1_1' title='bbox 928 272 1426 312; x_wconf 65' lang='lat'><strong>“²⁹0⁶’&#39;-</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1551 272 1556 275; x_wconf 77' lang='grc'>’</span> <span class='ocrx_word' id='word_1_3' title='bbox 2065 269 2210 368; x_wconf 72' lang='lat'><strong>169</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 292 400 2211 597">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 292 400 2211 597">
+     <span class='ocr_line' id='line_1_2' title="bbox 292 400 2211 527; baseline 0 -17"><span class='ocrx_word' id='word_1_4' title='bbox 292 475 301 486; x_wconf 91' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 325 445 546 511; x_wconf 78' lang='lat' dir='ltr'><strong>Pilato</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 570 444 658 507; x_wconf 85' lang='lat' dir='ltr'><strong>ad</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 687 430 1285 525; x_wconf 77' lang='lat' dir='ltr'><strong>Frackmunt-alp.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1370 447 1521 508; x_wconf 86' lang='lat' dir='ltr'><strong>Con</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1533 443 1661 509; x_wconf 71' lang='lat' dir='ltr'><strong>fert</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1689 400 1926 527; x_wconf 55' lang='lat' dir='ltr'>ifaque</span> <span class='ocrx_word' id='word_1_11' title='bbox 1966 448 2211 510; x_wconf 78' lang='lat' dir='ltr'>admo-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 327 523 1715 597; baseline -0.001 -7"><span class='ocrx_word' id='word_1_12' title='bbox 327 531 496 590; x_wconf 86' lang='lat' dir='ltr'><strong>dum</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 535 528 625 589; x_wconf 83' lang='lat' dir='ltr'><strong>ad</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 663 523 984 591; x_wconf 80' lang='lat' dir='ltr'><strong>habitum</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1023 523 1332 597; x_wconf 71' lang='lat' dir='ltr'><strong>regionis</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1375 526 1715 597; x_wconf 70' lang='lat' dir='ltr'><strong>Fagineae.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

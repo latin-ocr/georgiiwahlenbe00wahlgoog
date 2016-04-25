@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./georgiiwahlenbe00wahlgoog_0179.png"; bbox 0 0 2799 4642; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1037 257 2293 362">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1037 257 2293 362">
+     <span class='ocr_line' id='line_1_1' title="bbox 1037 257 2293 362; baseline 0.002 -70"><span class='ocrx_word' id='word_1_1' title='bbox 1037 257 1529 314; x_wconf 49' lang='grc' dir='ltr'><strong>«ως,-</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2196 264 2293 362; x_wconf 76' lang='lat'><strong>67</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 341 422 2287 591">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 341 422 2287 591">
+     <span class='ocr_line' id='line_1_2' title="bbox 341 422 2287 510; baseline 0.006 -18"><span class='ocrx_word' id='word_1_3' title='bbox 341 429 522 494; x_wconf 82' lang='lat' dir='ltr'><strong>Hah.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 563 424 641 489; x_wconf 84' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 691 422 1034 487; x_wconf 79' lang='lat' dir='ltr'><strong>ruderatis</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1082 431 1148 485; x_wconf 83' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1185 425 1276 485; x_wconf 82' lang='lat' dir='ltr'><strong>ad</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1318 426 1559 489; x_wconf 85' lang='lat' dir='ltr'><strong>domos</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1599 430 1921 510; x_wconf 79' lang='lat' dir='ltr'>planitiei</span> <span class='ocrx_word' id='word_1_10' title='bbox 1966 454 2045 500; x_wconf 81' lang='lat' dir='ltr'><strong>ac</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2089 459 2287 503; x_wconf 87' lang='lat' dir='ltr'>mon-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 421 504 1774 591; baseline 0.003 -22"><span class='ocrx_word' id='word_1_12' title='bbox 421 509 597 570; x_wconf 82' lang='lat' dir='ltr'>tium</span> <span class='ocrx_word' id='word_1_13' title='bbox 640 507 823 568; x_wconf 85' lang='lat' dir='ltr'>ultra</span> <span class='ocrx_word' id='word_1_14' title='bbox 866 504 1241 577; x_wconf 80' lang='lat' dir='ltr'><strong>terminum</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1280 505 1774 591; x_wconf 79' lang='lat' dir='ltr'><strong>Fagi.ubique.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
